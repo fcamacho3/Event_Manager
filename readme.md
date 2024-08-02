@@ -79,7 +79,7 @@ Overall, this project extended beyond mastering software QA technicalities; it p
 ![DockerHub Repo](Embedded_Files/DockerHub.png)
 
 ## GitHub Actions
-![Actions](Embedded_Files/GitHubActions.png)
+![Actions](Embedded_Files/GithubActions.png)
 
 ## Grading Rubric
 
