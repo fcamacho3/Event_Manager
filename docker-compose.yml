@@ -31,6 +31,7 @@ services:
       - app-network
 
   fastapi:
+    container_name: fastapi
     build: .
     volumes:
       - ./:/myapp/
