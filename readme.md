@@ -75,8 +75,6 @@ Overall, this project extended beyond mastering software QA technicalities; it p
 ## Coverage Report
 ![Coverage Report](Embedded_Files/coverage.png)
 
-## Dockerhub
-![DockerHub Repo](Embedded_Files/DockerHub.png)
 
 ## GitHub Actions
 ![Actions](Embedded_Files/GithubActions.png)
